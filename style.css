@@ -1,4 +1,15 @@
 .text {
-    color: white;
+    color: black;
     text-align: center;
+    background: #FFFFFF;
+    margin: 50px 100px;
+    padding: 10px;
+}
+#asteroid {
+    width: 300px;
+    float: right;
+}
+
+h1 {
+    color: purple;
 }
