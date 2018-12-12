@@ -1,4 +1,14 @@
 .text {
     color: white;
     text-align: center;
+    
+}
+
+body{
+
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-image:url(images/galaxy.jpg);
+    color:#FFF;
+    min-height:60%;
 }
