@@ -1,14 +1,17 @@
 .text {
-    color: white;
+    color: black;
     text-align: center;
+
     
 }
 
-body{
 
-    background-repeat:no-repeat;
-    background-position: center center;
-    background-image:url(images/galaxy.jpg);
-    color:#FFF;
-    min-height:60%;
+#asteroid {
+    width: 300px;
+    float: right;
+}
+
+h1 {
+    color: purple;
+
 }
