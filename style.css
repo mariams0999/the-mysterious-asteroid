@@ -14,3 +14,8 @@
 h1 {
     color: purple;
 }
+
+#bg1 {
+    background-image: url("images/galaxy.jpg");
+    background-size: cover;
+}
