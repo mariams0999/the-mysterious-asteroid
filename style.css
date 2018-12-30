@@ -12,17 +12,19 @@
     font-family: 'Muli', sans-serif;
 }
 
-#asteroid {
-    width: 300px;
-    float: right;
-    display: block;
-}
-
 #astronomers {
     width: 300px;
     float: right;
-    display: block;
+    padding: 5px;
 }
+
+#asteroid {
+    width: 300px;
+    float: right;
+    clear: right;
+    padding: 5px;
+}
+
 
 h1 {
     color: purple;
