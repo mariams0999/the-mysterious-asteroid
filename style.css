@@ -13,13 +13,13 @@
 }
 
 #astronomers {
-    width: 300px;
+    width: 350px;
     float: right;
     padding: 5px;
 }
 
 #asteroid {
-    width: 300px;
+    width: 350px;
     float: right;
     clear: right;
     padding: 5px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 #big {
-    font-size: 100px;
+    font-size: 90px;
 }
 
 span {
