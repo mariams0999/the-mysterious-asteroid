@@ -1,3 +1,8 @@
+#bg1 {
+    background-image: url("images/galaxy.jpg");
+    background-size: cover;
+}
+
 .text {
     color: black;
     text-align: center;
@@ -9,14 +14,20 @@
 #asteroid {
     width: 300px;
     float: right;
+    display: block;
+}
+
+#astronomers {
+    width: 300px;
+    float: right;
+    display: block;
 }
 
 h1 {
     color: purple;
 }
 
-#bg1 {
-    background-image: url("images/galaxy.jpg");
-    background-size: cover;
+span {
+  color: purple;  
 }
 
