@@ -4,14 +4,16 @@
     background:#FFFFFF;
     margin: 50px 100px;
     padding: 10px;
+    absolute: right;
 }
 
 #asteroid {
     width: 300px;
     float: right;
+     
 }
 
-h1 {
+.h1 {
     color: purple;
 }
 
