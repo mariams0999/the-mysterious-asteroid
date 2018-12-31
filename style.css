@@ -4,6 +4,12 @@
     position: relative;
 }
 
+#bg2 {
+    background-image: url("images/galaxy2.jpg");
+    background-size: cover;
+    position: relative;
+}
+
 .text {
     color: black;
     text-align: center;
@@ -12,6 +18,19 @@
     padding: 10px;
     position: absolute;
     font-family: 'Muli', sans-serif;
+}
+
+h1 {
+    color: purple;
+    font-family: 'Philosopher', sans-serif;
+}
+
+#big {
+    font-size: 90px;
+}
+
+span {
+  color: purple;  
 }
 
 #astronomers {
@@ -27,16 +46,16 @@
     padding: 5px;
 }
 
-h1 {
-    color: purple;
-    font-family: 'Philosopher', sans-serif;
+#alien {
+    width: 350px;
+    float: right;
+    padding: 5px;
 }
 
-#big {
-    font-size: 90px;
-}
-
-span {
-  color: purple;  
+#unity {
+    width: 350px;
+    float: right;
+    clear: right;
+    padding: 5px;
 }
 
