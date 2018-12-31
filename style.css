@@ -1,24 +1,47 @@
+#bg1 {
+    background-image: url("images/galaxy.jpg");
+    background-size: cover;
+}
+
 .text {
     color: black;
     text-align: center;
     background:#FFFFFF;
     margin: 50px 100px;
     padding: 10px;
+
     absolute: right;
+
+    font-family: 'Muli', sans-serif;
+}
+
+#astronomers {
+    width: 350px;
+    float: right;
+    padding: 5px;
+
 }
 
 #asteroid {
-    width: 300px;
+    width: 350px;
     float: right;
-     
+
+
+    clear: right;
+    padding: 5px;
+
 }
 
 .h1 {
     color: purple;
+    font-family: 'Philosopher', sans-serif;
 }
 
-#bg1 {
-    background-image: url("images/galaxy.jpg");
-    background-size: cover;
+#big {
+    font-size: 90px;
+}
+
+span {
+  color: purple;  
 }
 
