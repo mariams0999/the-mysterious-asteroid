@@ -1,6 +1,7 @@
 #bg1 {
     background-image: url("images/galaxy.jpg");
     background-size: cover;
+    position: relative;
 }
 
 .text {
@@ -9,9 +10,7 @@
     background:#FFFFFF;
     margin: 50px 100px;
     padding: 10px;
-
-    absolute: right;
-
+    position: absolute;
     font-family: 'Muli', sans-serif;
 }
 
@@ -19,20 +18,16 @@
     width: 350px;
     float: right;
     padding: 5px;
-
 }
 
 #asteroid {
     width: 350px;
     float: right;
-
-
     clear: right;
     padding: 5px;
-
 }
 
-.h1 {
+h1 {
     color: purple;
     font-family: 'Philosopher', sans-serif;
 }
